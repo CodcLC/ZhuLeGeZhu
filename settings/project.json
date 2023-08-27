@@ -1,0 +1,54 @@
+{
+  "start-scene": "0b15496b--097-7-4d-16-9-072-9605f1ed6139",
+  "group-list": [
+    "default",
+    "mapitem",
+    "shovel",
+    "synthesisLayer",
+    "topmostLayer",
+    "Boom"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "last-module-event-record-time": 1693161222031
+}

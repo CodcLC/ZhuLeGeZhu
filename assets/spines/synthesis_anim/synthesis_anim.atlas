@@ -1,0 +1,48 @@
+
+synthesis_anim.png
+size: 1424,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 1264, 125
+  size: 158, 158
+  orig: 160, 160
+  offset: 1, 1
+  index: -1
+box_light
+  rotate: false
+  xy: 1088, 109
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 837, 26
+  size: 249, 257
+  orig: 262, 277
+  offset: 3, 11
+  index: -1
+particle01
+  rotate: true
+  xy: 2, 2
+  size: 281, 302
+  orig: 283, 305
+  offset: 1, 2
+  index: -1
+particle02
+  rotate: true
+  xy: 306, 5
+  size: 278, 264
+  orig: 280, 266
+  offset: 1, 1
+  index: -1
+particle03
+  rotate: false
+  xy: 572, 6
+  size: 263, 277
+  orig: 265, 279
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d112cf9f-1dd0-4741-a0f5-d7a3ed845cfd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 92,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "pic_boxturntable_coin_1000": {
+      "ver": "1.0.6",
+      "uuid": "f5187e7e--8b9-a-4d-5b-b-3bd-0582709912e7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d112cf9f-1dd0-4741-a0f5-d7a3ed845cfd",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -0.5,
+      "trimX": 5,
+      "trimY": 3,
+      "width": 86,
+      "height": 91,
+      "rawWidth": 92,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

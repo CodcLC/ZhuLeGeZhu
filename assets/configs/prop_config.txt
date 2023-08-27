@@ -1,0 +1,5 @@
+id,name,picWay,breatheAnim,startAnim,explain
+ID,����,ͼƬ����,��ʾ����,��������,˵��
+1,ը��,prop_1,prop_bomb_breathe,prop_bomb_start,���������Ϊ������Χ8�������
+2,��ͷ,prop_2,prop_drill_breathe,prop_drill_start,������������е���������
+3,�����,prop_3,prop_giftbox_breathe,0,��������

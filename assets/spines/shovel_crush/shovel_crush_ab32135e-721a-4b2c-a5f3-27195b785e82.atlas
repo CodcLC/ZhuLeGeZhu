@@ -1,0 +1,181 @@
+
+shovel_crush.png
+size: 617,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 268, 2
+  size: 95, 89
+  orig: 320, 320
+  offset: 114, 117
+  index: -1
+10
+  rotate: true
+  xy: 497, 444
+  size: 166, 116
+  orig: 320, 320
+  offset: 82, 115
+  index: -1
+11
+  rotate: true
+  xy: 497, 612
+  size: 167, 117
+  orig: 320, 320
+  offset: 82, 114
+  index: -1
+12
+  rotate: true
+  xy: 496, 276
+  size: 166, 116
+  orig: 320, 320
+  offset: 83, 114
+  index: -1
+13
+  rotate: true
+  xy: 2, 206
+  size: 164, 115
+  orig: 320, 320
+  offset: 84, 114
+  index: -1
+14
+  rotate: true
+  xy: 467, 111
+  size: 163, 114
+  orig: 320, 320
+  offset: 85, 114
+  index: -1
+15
+  rotate: false
+  xy: 119, 224
+  size: 162, 113
+  orig: 320, 320
+  offset: 86, 114
+  index: -1
+16
+  rotate: false
+  xy: 119, 112
+  size: 159, 110
+  orig: 320, 320
+  offset: 88, 115
+  index: -1
+17
+  rotate: true
+  xy: 2, 47
+  size: 157, 109
+  orig: 320, 320
+  offset: 89, 115
+  index: -1
+18
+  rotate: false
+  xy: 280, 99
+  size: 155, 107
+  orig: 320, 320
+  offset: 90, 115
+  index: -1
+19
+  rotate: false
+  xy: 113, 3
+  size: 153, 107
+  orig: 320, 320
+  offset: 92, 115
+  index: -1
+2
+  rotate: true
+  xy: 320, 208
+  size: 130, 145
+  orig: 320, 320
+  offset: 104, 73
+  index: -1
+20
+  rotate: false
+  xy: 437, 7
+  size: 148, 102
+  orig: 320, 320
+  offset: 95, 116
+  index: -1
+21
+  rotate: true
+  xy: 395, 486
+  size: 146, 100
+  orig: 320, 320
+  offset: 96, 116
+  index: -1
+22
+  rotate: true
+  xy: 395, 340
+  size: 144, 99
+  orig: 320, 320
+  offset: 97, 116
+  index: -1
+23
+  rotate: true
+  xy: 520, 894
+  size: 140, 95
+  orig: 320, 320
+  offset: 99, 117
+  index: -1
+24
+  rotate: true
+  xy: 520, 781
+  size: 111, 94
+  orig: 320, 320
+  offset: 103, 117
+  index: -1
+25
+  rotate: false
+  xy: 175, 721
+  size: 62, 90
+  orig: 320, 320
+  offset: 104, 118
+  index: -1
+3
+  rotate: false
+  xy: 2, 372
+  size: 150, 179
+  orig: 320, 320
+  offset: 100, 53
+  index: -1
+4
+  rotate: true
+  xy: 175, 457
+  size: 175, 218
+  orig: 320, 320
+  offset: 94, 29
+  index: -1
+5
+  rotate: true
+  xy: 257, 634
+  size: 190, 238
+  orig: 320, 320
+  offset: 89, 16
+  index: -1
+6
+  rotate: true
+  xy: 257, 826
+  size: 208, 261
+  orig: 320, 320
+  offset: 82, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 813
+  size: 221, 253
+  orig: 320, 320
+  offset: 77, 12
+  index: -1
+8
+  rotate: false
+  xy: 2, 553
+  size: 171, 258
+  orig: 320, 320
+  offset: 75, 7
+  index: -1
+9
+  rotate: false
+  xy: 154, 339
+  size: 164, 116
+  orig: 320, 320
+  offset: 83, 115
+  index: -1

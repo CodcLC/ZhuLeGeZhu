@@ -1,0 +1,1 @@
+{"__type__":"cc.SpriteAtlas","_spriteFrames":{"single_color":{"__uuid__":"307f521f--007-0-40-d9-a-6cf-84b76569bd86"},"font_zaiguayici":{"__uuid__":"811e39fd--f61-0-49-c7-8-a11-5cdbd70596d7"},"desc":{"__uuid__":"6da7a45a--dae-8-4f-41-9-0ff-4286003f54fb"}}}

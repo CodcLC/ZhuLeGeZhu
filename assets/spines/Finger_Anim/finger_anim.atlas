@@ -1,0 +1,27 @@
+
+finger_anim.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger
+  rotate: false
+  xy: 2, 228
+  size: 292, 275
+  orig: 292, 275
+  offset: 0, 0
+  index: -1
+round_light1
+  rotate: false
+  xy: 296, 353
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+round_light2
+  rotate: false
+  xy: 2, 2
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1

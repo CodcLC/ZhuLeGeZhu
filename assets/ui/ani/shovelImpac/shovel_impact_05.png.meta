@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4e0d4acd-0bd3-4aa5-b715-9f533d72af81",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 288,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "shovel_impact_05": {
+      "ver": "1.0.6",
+      "uuid": "9b56a2a5--037-5-4e-6f-a-163-c0162728bdfe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4e0d4acd-0bd3-4aa5-b715-9f533d72af81",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 80,
+      "trimY": 21,
+      "width": 128,
+      "height": 138,
+      "rawWidth": 288,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

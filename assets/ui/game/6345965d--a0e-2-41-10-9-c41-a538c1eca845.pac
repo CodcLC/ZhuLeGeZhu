@@ -1,0 +1,1 @@
+{"__type__":"cc.SpriteAtlas","_spriteFrames":{"pic_could_s_1":{"__uuid__":"e9dd7e69--deb-6-45-ee-a-645-5ad2a276cefc"},"boxbg":{"__uuid__":"10f71e1c--8bd-8-46-15-b-d20-a187abbc4581"}}}

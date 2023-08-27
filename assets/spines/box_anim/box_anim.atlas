@@ -1,0 +1,62 @@
+
+box_anim.png
+size: 986,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07
+  rotate: false
+  xy: 630, 3
+  size: 180, 57
+  orig: 200, 67
+  offset: 10, 5
+  index: -1
+08
+  rotate: true
+  xy: 393, 2
+  size: 40, 235
+  orig: 42, 254
+  offset: 1, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 3
+  size: 194, 169
+  orig: 200, 177
+  offset: 3, 7
+  index: -1
+baoxiang00
+  rotate: false
+  xy: 812, 10
+  size: 172, 55
+  orig: 172, 56
+  offset: 0, 0
+  index: -1
+baoxiang01
+  rotate: false
+  xy: 599, 62
+  size: 172, 110
+  orig: 172, 111
+  offset: 0, 0
+  index: -1
+baoxiang02
+  rotate: false
+  xy: 198, 23
+  size: 193, 149
+  orig: 193, 151
+  offset: 0, 1
+  index: -1
+baoxiang04
+  rotate: false
+  xy: 393, 44
+  size: 204, 128
+  orig: 204, 130
+  offset: 0, 1
+  index: -1
+baoxiang05
+  rotate: false
+  xy: 773, 67
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
